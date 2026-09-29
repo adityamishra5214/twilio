@@ -1,0 +1,13 @@
+{
+  "id": "b7a8cf69-e329-4973-8fa8-fa56924e294e",
+  "name": "ESP32 Structural Vibration Monitor",
+  "path": "ESP32 Structural Vibration Monitor",
+  "board": "arduino",
+  "boardId": "arduino-uno",
+  "boardFqbn": "arduino:avr:uno",
+  "createdAt": 1790694417972,
+  "updatedAt": 1790694671447,
+  "schemaVersion": 1,
+  "exportedAt": "2026-09-29T15:13:24.562Z",
+  "exportedBy": "tinkered-app/1.0"
+}
